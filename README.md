@@ -6,11 +6,11 @@
 
 See Ref. [[**TensorSymmetry: a package to get the symmetry-adapted tensors to disentangle the spin-orbit coupling effect and establish the relationship with magnetic order**](https://arxiv.org/abs/2504.04424) for more theoretical information.  
 
-<img src="Figure\TensorSymmetry.png" alt="图片描述" style="zoom:30%;" />
+<img src="Figure\TensorSymmetry.png" alt="tensor" style="zoom:30%;" />
 
 ​	Given Wolfram Mathematica's expertise in symbolic computations and its human-friendly output format, we developed a computational program on this software named “TensorSymmetry”. The workflow of this program is depicted in Fig. 3. The package can investigate the response tensors constrained by magnetic point groups and spin point groups to disentangle the SOC effect, and establish the analytical relationship of response tensors and magnetic moments with the “extrinsic parameter” method.
 
-<img src="Figure\Workflow.jpg" alt="图片描述" style="zoom:50%;" />
+<img src="Figure\Workflow.png" alt="workflow" style="zoom:50%;" />
 
 The software package consists of four kinds of modules in the "Script" folder:
 
